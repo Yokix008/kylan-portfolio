@@ -32,3 +32,9 @@ section {
 html {
   scroll-behavior:smooth;
 }
+
+.dark-mode {
+  background-color: #121212;
+  color: white;
+}
+
